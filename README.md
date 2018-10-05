@@ -1,1 +1,2 @@
-# ML-Wrapper
+# Machine Learning wrapper in Python
+This repository consists of a script that includes the analysis of data with a varying set of machine learning models. Toy data is created and model fit and model prediction are executed including k-fold cross validation. This example is inspired by a blog called machinelearningmastery.com. The specific link to that blog can be found in the `wrapper.py` script. 
